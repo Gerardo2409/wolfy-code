@@ -7,8 +7,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { TarjetasModule } from './tarjetas/tarjetas.module';
 import { MatCardModule } from '@angular/material/card';
 
-import { TarjetasComponent } from './tarjetas/tarjetas.component';
-
 @NgModule({
   declarations: [
     AppComponent
@@ -19,6 +17,7 @@ import { TarjetasComponent } from './tarjetas/tarjetas.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     MatCardModule,
+    TarjetasModule
     
   ],
   providers: [],

@@ -1,9 +1,9 @@
 export interface tarjeta {
     titulo: string;
     descripcion:string;
-    imagenUrl: string;
-    Link1:string;
-    Link2?: boolean;
+    imagen:string;
+    Link:string;
+    Link2?:boolean;
 }
   
 
