@@ -1,0 +1,15 @@
+.header {
+  position: relative;
+  height: 100vh;
+  background: url('https://assets.nflxext.com/ffe/siteui/vlv3/8e16cf18-4cfa-4be6-b1e1-236f8de8d855/9453d32d-c8b1-4d4d-86ea-554f0bafed26/VE-es-20201228-popsignuptwoweeks-perspective_alpha_website_large.jpg') no-repeat center center/cover;
+}
+
+
+
+.header__logo {
+  max-width: 200px;
+}
+
+.header_content h1, .headercontent h2, .header_content h3 {
+  color: white;
+}
