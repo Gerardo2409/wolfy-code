@@ -10,6 +10,25 @@
   max-width: 200px;
 }
 
-.header_content h1, .headercontent h2, .header_content h3 {
+.header__content h1, .header__content h2, .header__content h3 {
   color: white;
+}
+.ml-auto {
+  margin-left: auto;
+}
+
+.btn-danger {
+  margin-left: 10px;
+}
+.form select {
+  width: auto;
+  display: inline-block;
+  margin-left: 5px;
+}
+label.d-dlex {
+  align-items: center;
+}
+fa-globe
+.bi-bi-translate {
+  margin-right: 5px;
 }

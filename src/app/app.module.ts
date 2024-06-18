@@ -7,12 +7,13 @@ import { HeaderComponent } from './header/header.component';
 import { MainSectionComponent } from './main-section/main-section.component';
 import { FaqComponent } from './faq/faq.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     MainSectionComponent,
-    FaqComponent
+    FaqComponent,
   ],
   imports: [
     BrowserModule,
